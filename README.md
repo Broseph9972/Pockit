@@ -1,3 +1,3 @@
 # Pockit
 
-uh cool readme go here later
+Inspired by the !(https://teenage.engineering/store/tp-7-black)[TP-17 by teenage engineering]
