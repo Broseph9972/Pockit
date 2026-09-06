@@ -1,2 +1,3 @@
-# Pocket-Radio
-Pocket Radio for hack club static
+# Pockit
+
+uh cool readme go here later
